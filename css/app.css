@@ -1,0 +1,110 @@
+.container {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Quicksand', sans-serif;
+}
+.inc {
+    padding-top: 5%;
+}
+inst {
+    text-align: left;
+}
+.overlay {
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    opacity: 0.6;
+}
+.about {
+    height: 80%;
+    width: 100%;
+    background-color: white;
+    color: black;
+    background-image: url(../images/landing7.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.landing {
+    height: 100%;
+    width: 100%;
+    opacity: 0.6;
+    color: black;
+    background-image: url(../images/naked.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.instincts {
+    margin-top: 10%;
+}
+.title {
+    padding-top: 15%;
+    font-size: 25px;
+    background-color: black;
+    opacity: 0.9;
+    color: white;
+    width: 200%;
+    height: 100%;
+    margin-left: 0;
+    margin-right: 0;
+}
+.perfume {
+    padding-top: 10%;
+}
+.model {
+    height: 100%;
+    width: 100%;
+    background-color: white;
+}
+.contacts {
+    height: 40%;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+.white {
+    background-color: white;
+}
+.modell {
+    height: 100%;
+}
+.quote {
+    padding-top: 15%;
+}
+.image1 {
+    background-image: url(../images/girl.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 20%;
+}
+.social {
+    padding-top: 5%;
+}
+.quote1 {
+    padding-top: 20%;
+}
+.keep {
+    padding-top: 20%;
+}
+h5 {
+    font-size: 200%;
+}
+h1 {
+    font-size: 700%;
+}
+fa {
+    height: 40px;
+}
