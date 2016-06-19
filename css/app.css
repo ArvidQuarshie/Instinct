@@ -21,11 +21,12 @@ inst {
 .overlay {
     height: 100%;
     width: 100%;
-    background-color: white;
-    opacity: 0.6;
+    background-color: black;
+    opacity: 0.4;
+    color: white;
 }
 .about {
-    height: 80%;
+    height: 100%;
     width: 100%;
     background-color: white;
     color: black;
@@ -67,9 +68,10 @@ inst {
     height: 100%;
     width: 100%;
     background-color: white;
+    color: black;
 }
 .contacts {
-    height: 40%;
+    height: 30%;
     width: 100%;
     background-color: black;
     color: white;
@@ -83,12 +85,24 @@ inst {
 .quote {
     padding-top: 15%;
 }
+.quote2 {
+    padding-top: 15%;
+}
 .image1 {
     background-image: url(../images/girl.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     padding-top: 20%;
+}
+.bike {
+    height: 100%;
+    width: 100%;
+    background-image: url(../images/bike.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
 }
 .social {
     padding-top: 5%;
@@ -103,7 +117,7 @@ h5 {
     font-size: 200%;
 }
 h1 {
-    font-size: 700%;
+    font-size: 600%;
 }
 fa {
     height: 40px;
