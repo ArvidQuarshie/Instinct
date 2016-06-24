@@ -30,7 +30,7 @@ inst {
     width: 100%;
     background-color: white;
     color: black;
-    background-image: url(../images/landing7.jpg);
+    /*    background-image: url(../images/landing.jpg);*/
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -122,3 +122,27 @@ h1 {
 fa {
     height: 40px;
 }
+
+/* Small only */
+
+@media screen and (max-width: 39.9375em) {
+    fi
+}
+
+/* Medium and up */
+
+@media screen and (min-width: 40em) {
+    font-size=50%;
+}
+
+/* Medium only */
+
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {}
+
+/* Large and up */
+
+@media screen and (min-width: 64em) {}
+
+/* Large only */
+
+@media screen and (min-width: 64em) and (max-width: 74.9375em) {}
