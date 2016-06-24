@@ -25,6 +25,7 @@ inst {
     opacity: 0.4;
     color: white;
 }
+.aboutpic {}
 .about {
     height: 100%;
     width: 100%;
@@ -35,6 +36,8 @@ inst {
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
+    padding-top: 5%;
+    padding-left: 0%;
 }
 .landing {
     height: 100%;
