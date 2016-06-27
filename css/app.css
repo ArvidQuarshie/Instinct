@@ -18,6 +18,9 @@ h6 {
 inst {
     text-align: left;
 }
+.aboutheight {
+    line-height: 40px;
+}
 
 /*
 .overlay {
@@ -85,8 +88,8 @@ inst {
 .model {
     height: 100%;
     width: 100%;
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: white;
 }
 .contacts {
     height: 30%;
@@ -150,7 +153,9 @@ fa {
 /* Medium and up */
 
 @media screen and (min-width: 40em) {
-    font-size=50%;
+    .x {
+        font-size: 20px;
+    }
 }
 
 /* Medium only */
