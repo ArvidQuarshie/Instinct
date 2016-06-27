@@ -15,9 +15,15 @@ h6 {
 .instinkt {
     padding-top: 30%;
 }
+.about {
+    height: 100%;
+    width: 100%;
+    background-color: white;
+}
 .body {
     height=100%;
     width: 100%;
+    background-color: white;
 }
 .landing {
     height: 100%;
