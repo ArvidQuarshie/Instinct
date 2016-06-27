@@ -29,9 +29,13 @@ inst {
 }
 */
 
+.body {
+    height=100%;
+    width: 100%;
+}
 .contact {
-    height="50%";
-    width="50%";
+    height=100%;
+    width=100%;
     background-color: black;
 }
 .aboutpic {}
@@ -59,19 +63,21 @@ inst {
     background-size: cover;
     background-attachment: fixed;
 }
+
+/*
 .instincts {
     margin-top: 10%;
 }
+*/
+
 .title {
     padding-top: 15%;
     font-size: 25px;
     background-color: black;
     opacity: 0.9;
     color: white;
-    width: 200%;
-    height: 100%;
-    margin-left: 0;
-    margin-right: 0;
+    max-width: 100%;
+    max-height: 110%;
 }
 .perfume {
     padding-top: 10%;
