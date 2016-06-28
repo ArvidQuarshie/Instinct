@@ -95,10 +95,40 @@ fa {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 500px;
+    height: 600px;
     width: 100%;
 }
 .about {
     height: 100%;
     width: 100%;
+}
+.servicephoto {
+    background-image: url(../images/services.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+    padding-top: 5%;
+}
+
+.servicesleft {
+    background-color: black;
+    color:white;
+    height:100%;
+
+}
+
+.services {
+    height:90%;
+    background-color: black;
+
+
+}
+
+.client {
+    height:100%;
+    width:100%;
+    background-color: white;
+
 }
