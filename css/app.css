@@ -23,8 +23,8 @@ h6 {
 .landing {
     height: 100%;
     width: 100%;
-    opacity: 0.6;
-    color: black;
+    opacity: 0.9;
+    color: white;
     background-image: url(../images/board.jpg);
     background-repeat: no-repeat;
     background-position: center;
