@@ -166,6 +166,12 @@ fa {
 .cf:after {
     clear: both;
 }
+.footer {
+    height: 50%;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
 
 /*
 h1 {
