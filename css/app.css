@@ -95,13 +95,14 @@ fa {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 600px;
+    height: 620px;
     width: 100%;
 }
 .about {
     height: 100%;
     width: 100%;
-    color:black;
+    color: white;
+    background-color: black;
 }
 .servicephoto {
     background-image: url(../images/services.jpg);
@@ -118,7 +119,7 @@ fa {
     height: 100%;
 }
 .services {
-    height: 90%;
+    height: 100%;
     background-color: black;
 }
 .client {
