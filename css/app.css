@@ -354,13 +354,13 @@ h2 {
     background-color: black;
 }
 .target {
-    margin-left: 50%;
+/*    margin-left: 50%;*/
     margin-top: 2%;
     padding-left: 10px;
     
 }
 .cog {
-    margin-left: 50%;
+    margin-left: 25%;
 }
 .bat {
     text-align: center;
@@ -386,4 +386,13 @@ h2 {
 
 .accuracy {
     text-align: center;
+}
+
+.photodiv1 {
+    padding-left: 70px;
+}
+
+.photodiv2 {
+    padding-left: 40px;
+    
 }
