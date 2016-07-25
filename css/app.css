@@ -175,8 +175,8 @@ fa {
 .footer {
     height: 30%;
     width: 100%;
-    background-color: black;
-    color: white;
+    background-color:white;
+    color: black;
 }
 
 /*
@@ -369,7 +369,7 @@ h2 {
     margin-right: 35%;
 }
 .batdiv {
-    text-align: right;
+    text-align: center;
     padding-top: 30px;
 }
 
